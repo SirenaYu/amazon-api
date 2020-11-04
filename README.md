@@ -1,6 +1,8 @@
 # An API to Include Amazon Gift Code in Anonymous Qualtrics Surveys
 
-This API is meant for social scientist who are conducting anonymous Qualtrics surveys and would like to include an Amazon gift card code at the end of the survey to reward respondents. It is first created for JPAL's COVID-19 USA Project.
+This API is meant for social scientists who are conducting anonymous Qualtrics surveys and would like to include an Amazon gift card code at the end of the survey to reward respondents. It is first created for JPAL's COVID-19 USA Project.
+
+Currently, most online sources on sending gift cards to participants need to collect the respondent's email in one way or the other. However, that approach does not work for any survey that needs to be 100% anonymous. As a result, this API is meant to be a solution for sending an Amazaon gift card in an anonymous Qualtircs survey. It directly displays an Amazon gift code in your Qualtrics survey, so you won't have to collect any contact information from survey respondents.
 
 I am new to open source software, so please excuse any README content that isn't consistent with the format of most open source programs. And if you know anyway that I can improve this, feel free to email me at sirenayu@mit.edu and let me know! Without further ado, here's a step by step instruction to help you set up the program.
 
