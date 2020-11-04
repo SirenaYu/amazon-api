@@ -1,4 +1,4 @@
-# amazon-api
+# An API to Include Amazon Gift Code in Anonymous Qualtrics Surveys
 
 This API is meant for social scientist who are conducting anonymous Qualtrics surveys and would like to include an Amazon gift card code at the end of the survey to reward respondents. It is first created for JPAL's COVID-19 USA Project.
 
